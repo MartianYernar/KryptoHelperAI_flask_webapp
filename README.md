@@ -1,2 +1,2 @@
 # KryptoHelperAI_flask_webapp
-Flask / python
+Flask / Web-scraping / Comp.vision classification AI that predicts whether stock will go up or down
